@@ -16,6 +16,7 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
   - jekyll-commonwork-ghpages
+  - jekyll-pdf-embed
 
 exclude:
   - Makefile
