@@ -1,4 +1,4 @@
-title: jekyll-rtd-theme
+title: SSAI
 description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
@@ -15,6 +15,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-commonwork-ghpages
 
 exclude:
   - Makefile
