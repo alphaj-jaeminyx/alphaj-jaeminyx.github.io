@@ -5,9 +5,9 @@
 
 Just another documentation theme compatible with GitHub Pages
 
-<object data="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view" type="application/pdf" width="700px" height="700px">
-    <embed src="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view">Download PDF</a>.</p>
+<object data="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
