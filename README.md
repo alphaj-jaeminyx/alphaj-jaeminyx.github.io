@@ -5,9 +5,9 @@
 
 Just another documentation theme compatible with GitHub Pages
 
-<object data="https://github.com/alphaj-jaeminyx/alphaj-jaeminyx.github.io/raw/main/la.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/alphaj-jaeminyx/alphaj-jaeminyx.github.io/raw/main/la.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/alphaj-jaeminyx/alphaj-jaeminyx.github.io/raw/main/la.pdf">Download PDF</a>.</p>
+<object data="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1deEzP4Dwr9gQxXQlVjin1UC6NcRiw8Gy/view">Download PDF</a>.</p>
     </embed>
 </object>
 
